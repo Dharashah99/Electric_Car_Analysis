@@ -57,6 +57,7 @@ Business Impact and Insights
     •	Reveals BEV dominance over PHEVs in the market
     •	Supports policy and infrastructure planning using CAFV eligibility insights
     •	Enables data-driven sustainability and transportation decisions
+________________________________________
 
 5. What the Dashabord looks like
 <img width="1327" height="742" alt="Electric_Vehicle_Analysis" src="https://github.com/user-attachments/assets/faea6d19-c1b3-48ce-8bd0-ba25a1d0a0de" />
